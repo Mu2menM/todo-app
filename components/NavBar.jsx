@@ -49,7 +49,7 @@ export default function NavBar () {
                   
                 </Menu> 
                 <Typography variant="h6">
-                TODO-App-Mumen-Murad-
+                TODO-App-Mumen-Murad
               </Typography>
             </Toolbar>
           </AppBar>
